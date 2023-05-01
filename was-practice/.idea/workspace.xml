@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cd88f70-13ce-4bd3-9ddc-021af0f037d5" name="변경" comment="스프링 초격차 패키지 ~ ch2-2">
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/src/main/java/org/example/WebApplicationServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mvc-practice/webapps/WEB-INF/classes/org/example/WebApplicationServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/MultiplicationOperater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/NewArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/PositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/SubtractionOperater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/tobe/AdditionOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/tobe/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/tobe/DivisionOperater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelt/test.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc-practice/src/main/java/org/example/WebApplicationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc-practice/src/main/java/org/example/WebApplicationServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/PositiveNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/PositiveNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +100,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.RaceConditionDemo">
+  <component name="RunManager" selected="애플리케이션.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="was-practice.main" />
@@ -160,9 +164,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.RaceConditionDemo" />
         <item itemvalue="HTTP 요청.test | #1" />
-        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="JUnit.RequestLineTest.create" />
         <item itemvalue="JUnit.QueryStringTest.createTest" />
       </list>
@@ -179,6 +183,7 @@
       <workItem from="1682585021185" duration="31000" />
       <workItem from="1682587984775" duration="46000" />
       <workItem from="1682588039564" duration="11461000" />
+      <workItem from="1682910010224" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="스프링 초격차 패키지 ~ ch2-2">
       <created>1682603960691</created>
