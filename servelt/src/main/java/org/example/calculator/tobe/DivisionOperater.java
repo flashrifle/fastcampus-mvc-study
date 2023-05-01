@@ -1,6 +1,5 @@
 package org.example.calculator.tobe;
 
-import org.example.calculator.domain.NewArithmeticOperator;
 import org.example.calculator.domain.PositiveNumber;
 
 public class DivisionOperater implements NewArithmeticOperator {

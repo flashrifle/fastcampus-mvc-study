@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6874ec9-ef7a-483e-9bec-9f24ebff50cf" name="변경" comment="[패캠] part1. 개발환경 설정">
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/servlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/MultiplicationOperater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/NewArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/PositiveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/domain/SubtractionOperater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/tobe/AdditionOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/tobe/ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/calculator/tobe/DivisionOperater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servelt/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/PositiveNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/PositiveNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../was-practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../was-practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servelt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servelt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servelt/src/main/java/org/example/WebApplicationServerLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../servelt/src/main/java/org/example/WebApplicationServerLauncher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,26 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/leejaemin/Desktop/JavaStudy/FastCampus_study/mvc-practice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/leejaemin/Desktop/JavaStudy/FastCampus/mvc-practice/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/leejaemin/Desktop/JavaStudy/FastCampus_study/mvc-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/leejaemin/Desktop/JavaStudy/FastCampus/mvc-practice/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="WebApplicationServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.WebApplicationServer" />
@@ -111,6 +97,7 @@
       <workItem from="1682584703609" duration="58000" />
       <workItem from="1682587896649" duration="36000" />
       <workItem from="1682910076585" duration="182000" />
+      <workItem from="1682926824293" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="[패캠] part1. 개발환경 설정">
       <created>1680706732165</created>
@@ -137,6 +124,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="[패캠] part1. 개발환경 설정" />
     <option name="LAST_COMMIT_MESSAGE" value="[패캠] part1. 개발환경 설정" />
   </component>

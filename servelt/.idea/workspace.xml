@@ -5,24 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6874ec9-ef7a-483e-9bec-9f24ebff50cf" name="변경" comment="[패캠] part1. 개발환경 설정">
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/servlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/domain/MultiplicationOperater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/domain/NewArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/domain/PositiveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/domain/SubtractionOperater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/tobe/AdditionOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/tobe/ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/tobe/DivisionOperater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvc-practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc-practice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvc-practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc-practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/PositiveNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/src/test/java/org/example/basicCalculator/PositiveNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CalculateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CalculatorServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WebApplicationServerLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WebApplicationServerLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/calculator/domain/PositiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/domain/PositiveNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/test.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/WEB-INF/classes/org/example/WebApplicationServer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../was-practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../was-practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,20 +69,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/leejaemin/Desktop/JavaStudy/FastCampus_study/servelt",
+    "last_opened_file_path": "/Users/leejaemin/Desktop/JavaStudy/FastCampus_study/servelt/src/main/java/org/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/Users/leejaemin/Desktop/JavaStudy/FastCampus/mvc-practice/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "문제",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="HTTP 요청.test | #1">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.WebApplicationServerLauncher">
     <configuration name="WebApplicationServerLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -108,10 +106,14 @@
     <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test.http" requestIdentifier="#1" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
+    <configuration name="test 내 전체" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/test.http">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP 요청.test | #1" />
         <item itemvalue="애플리케이션.WebApplicationServerLauncher" />
+        <item itemvalue="HTTP 요청.test | #1" />
+        <item itemvalue="HTTP 요청.test 내 전체" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +129,7 @@
       <workItem from="1682584703609" duration="58000" />
       <workItem from="1682587896649" duration="36000" />
       <workItem from="1682909454646" duration="1329000" />
+      <workItem from="1682910984629" duration="6263000" />
     </task>
     <task id="LOCAL-00001" summary="[패캠] part1. 개발환경 설정">
       <created>1680706732165</created>
