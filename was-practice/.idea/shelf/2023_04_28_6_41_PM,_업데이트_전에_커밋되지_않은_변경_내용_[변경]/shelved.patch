@@ -1,0 +1,84 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"6cd88f70-13ce-4bd3-9ddc-021af0f037d5\" name=\"변경\" comment=\"스프링 초격차 패키지 ~ ch2-2\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/HttpRequest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/HttpResponse.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/QueryString.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/QueryStrings.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/example/RequestLine.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/org/example/QueryStringTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/org/example/QueryStringsTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/org/example/RequestLineTest.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/gradle.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/gradle.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build.gradle\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build.gradle\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/example/CustomWebApplicationServer.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/example/CustomWebApplicationServer.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/test.http\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/test.http\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"was-practice\" type=\"f1a62948:ProjectNode\" />\n              </path>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"was-practice\" type=\"f1a62948:ProjectNode\" />\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTTP Request\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2P0DHIffpZAYHzv1ekczRBdCeuB\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"last_opened_file_path\": \"/Users/leejaemin/Desktop/JavaStudy/FastCampus_study/was-practice\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"onboarding.tips.debug.path\": \"/Users/leejaemin/Desktop/JavaStudy/FastCampus/was-practice/src/main/java/org/example/Main.java\",\n    \"project.structure.last.edited\": \"모듈\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.0\",\n    \"settings.editor.selected.configurable\": \"reference.settingsdialog.project.gradle\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"org.example\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/main/java/org/example\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"애플리케이션.Main\">\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.Main\" />\n      <module name=\"was-practice.main\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.example.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"test | #1\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/test.http\" requestIdentifier=\"#1\" runType=\"단일 요청 실행\">\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"QueryStringTest.createTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"was-practice.test\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.example.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.example\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.QueryStringTest\" />\n      <option name=\"METHOD_NAME\" value=\"createTest\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"QueryStringsTest.createTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"was-practice.test\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.example.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.example\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.QueryStringsTest\" />\n      <option name=\"METHOD_NAME\" value=\"createTest\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"RequestLineTest.create\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"was-practice.test\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"org.example.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"org.example\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.RequestLineTest\" />\n      <option name=\"METHOD_NAME\" value=\"create\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"애플리케이션.Main\" />\n        <item itemvalue=\"JUnit.RequestLineTest.create\" />\n        <item itemvalue=\"HTTP 요청.test | #1\" />\n        <item itemvalue=\"JUnit.QueryStringTest.createTest\" />\n        <item itemvalue=\"JUnit.QueryStringsTest.createTest\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\n      <changelist id=\"6cd88f70-13ce-4bd3-9ddc-021af0f037d5\" name=\"변경\" comment=\"\" />\n      <created>1682585019322</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1682585019322</updated>\n      <workItem from=\"1682585021185\" duration=\"31000\" />\n      <workItem from=\"1682587984775\" duration=\"46000\" />\n      <workItem from=\"1682588039564\" duration=\"11461000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"스프링 초격차 패키지 ~ ch2-2\">\n      <created>1682603960691</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682603960691</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"스프링 초격차 패키지 ~ ch2-2\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"스프링 초격차 패키지 ~ ch2-2\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 06a3e18442179cbdc5191d9061b18f0a02ab754a)
++++ b/.idea/workspace.xml	(date 1682674883187)
+@@ -4,7 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6cd88f70-13ce-4bd3-9ddc-021af0f037d5" name="변경" comment="스프링 초격차 패키지 ~ ch2-2">
++    <list default="true" id="6cd88f70-13ce-4bd3-9ddc-021af0f037d5" name="변경" comment="스프링 초격차 패키지 ~ part1 ch4-2">
++      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2023-04-28T184014.200.json" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HttpRequest.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HttpResponse.java" afterDir="false" />
+@@ -15,6 +16,8 @@
+       <change afterPath="$PROJECT_DIR$/src/test/java/org/example/QueryStringsTest.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RequestLineTest.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomWebApplicationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomWebApplicationServer.java" afterDir="false" />
+@@ -96,7 +99,7 @@
+       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="애플리케이션.Main">
++  <component name="RunManager" selected="HTTP 요청.test | #1">
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+       <module name="was-practice.main" />
+@@ -163,9 +166,9 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="HTTP 요청.test | #1" />
+         <item itemvalue="애플리케이션.Main" />
+         <item itemvalue="JUnit.RequestLineTest.create" />
+-        <item itemvalue="HTTP 요청.test | #1" />
+         <item itemvalue="JUnit.QueryStringTest.createTest" />
+         <item itemvalue="JUnit.QueryStringsTest.createTest" />
+       </list>
+@@ -181,7 +184,7 @@
+       <updated>1682585019322</updated>
+       <workItem from="1682585021185" duration="31000" />
+       <workItem from="1682587984775" duration="46000" />
+-      <workItem from="1682588039564" duration="11461000" />
++      <workItem from="1682588039564" duration="11803000" />
+     </task>
+     <task id="LOCAL-00001" summary="스프링 초격차 패키지 ~ ch2-2">
+       <created>1682603960691</created>
+@@ -190,7 +193,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1682603960691</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="스프링 초격차 패키지 ~ part1 ch4-2">
++      <created>1682674880407</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1682674880407</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -209,7 +219,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="스프링 초격차 패키지 ~ ch2-2" />
+-    <option name="LAST_COMMIT_MESSAGE" value="스프링 초격차 패키지 ~ ch2-2" />
++    <MESSAGE value="스프링 초격차 패키지 ~ part1 ch4-2" />
++    <option name="LAST_COMMIT_MESSAGE" value="스프링 초격차 패키지 ~ part1 ch4-2" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
